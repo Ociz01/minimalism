@@ -1,6 +1,6 @@
 {
-    "name":"ultra low graphic",
-    "author":"Anton, ilya",
+    "name":"[red]ultra [lime]low [yellow]graphic",
+    "author":"[purple]Anton, ilya",
     "description":"a mod that greatly reduces block resolution ((fps does not increase))",
-    "version":"0.1"
+    "version":"0.2"
 }
